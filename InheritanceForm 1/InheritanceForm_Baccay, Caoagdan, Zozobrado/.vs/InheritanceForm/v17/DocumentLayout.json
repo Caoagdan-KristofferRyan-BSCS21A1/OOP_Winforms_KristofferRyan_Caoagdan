@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|C:\\Users\\jhunm\\Downloads\\InheritanceForm\\inheritanceform\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|solutionrelative:inheritanceform\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|C:\\Users\\jhunm\\Downloads\\InheritanceForm\\inheritanceform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|solutionrelative:inheritanceform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|C:\\Users\\jhunm\\Downloads\\InheritanceForm\\inheritanceform\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|solutionrelative:inheritanceform\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|C:\\Users\\jhunm\\Downloads\\InheritanceForm\\inheritanceform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|solutionrelative:inheritanceform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|c:\\users\\jhunm\\downloads\\inheritanceform\\inheritanceform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|solutionrelative:inheritanceform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|C:\\Users\\jhunm\\Downloads\\InheritanceForm\\inheritanceform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{396D69C9-257C-44B7-A85E-07D9EDF9C6F3}|InheritanceForm\\InheritanceForm.csproj|solutionrelative:inheritanceform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "InheritanceForm\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form2.Designer.cs",
+              "RelativeToolTip": "InheritanceForm\\Form2.Designer.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAewFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:49:25.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "InheritanceForm\\InventoryManagement.cs",
+              "ToolTip": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\InventoryManagement.cs",
+              "RelativeToolTip": "InheritanceForm\\InventoryManagement.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:28:24.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form2.cs",
+              "RelativeDocumentMoniker": "InheritanceForm\\Form2.cs",
+              "ToolTip": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form2.cs",
+              "RelativeToolTip": "InheritanceForm\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:27:56.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form2.cs",
+              "RelativeDocumentMoniker": "InheritanceForm\\Form2.cs",
+              "ToolTip": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form2.cs [Design]",
+              "RelativeToolTip": "InheritanceForm\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:27:53.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form1.cs",
+              "RelativeDocumentMoniker": "InheritanceForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form1.cs",
+              "RelativeToolTip": "InheritanceForm\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:27:48.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form1.cs",
+              "RelativeDocumentMoniker": "InheritanceForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\jhunm\\Downloads\\InheritanceForm\\InheritanceForm\\Form1.cs [Design]",
+              "RelativeToolTip": "InheritanceForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:27:45.269Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
